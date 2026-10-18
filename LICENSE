@@ -1,21 +1,76 @@
-MIT License
+FruitSlash Custom License
+Version 1.0
+Copyright (c) 2025 Ukashacoder. All rights reserved.
 
-Copyright (c) 2026 UkashaCoder
+------------------------------------------------------------------
+1. DEFINITIONS
+------------------------------------------------------------------
+"Game" means the software project named "FruitSlash", including all
+source code, assets, sounds, images, and documentation in this
+repository.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+"Author" means Ukashacoder, the original creator and copyright holder
+of the Game.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"You" means any person or entity who downloads, copies, modifies,
+or uses the Game.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+------------------------------------------------------------------
+2. PERMISSIONS (what you ARE allowed to do)
+------------------------------------------------------------------
+You are free to:
+  (a) Download, run, and play the Game for personal, non-commercial use.
+  (b) View and study the source code for learning purposes.
+  (c) Fork this repository on GitHub and make modifications for your
+      own personal use.
+  (d) Share links to the original repository.
+
+------------------------------------------------------------------
+3. RESTRICTIONS (what you are NOT allowed to do)
+------------------------------------------------------------------
+You may NOT:
+  (a) Sell the Game, or any modified version of it, for money.
+  (b) Publish, distribute, or upload modified versions of the Game
+      to any public platform without written permission from the Author.
+  (c) Remove, hide, or alter this license or the Author's copyright
+      notice in any copy of the Game.
+  (d) Use the name "FruitSlash" or "Ukashacoder" to promote or
+      endorse your own projects without permission.
+  (e) Claim the Game, or any part of it, as your own original work.
+
+------------------------------------------------------------------
+4. CONTRIBUTIONS
+------------------------------------------------------------------
+If you submit code, assets, or ideas to this repository (e.g. via
+pull requests), you grant the Author a permanent, royalty-free,
+worldwide license to use, modify, and include your contribution in
+the Game under this same license.
+
+------------------------------------------------------------------
+5. COMMERCIAL USE
+------------------------------------------------------------------
+Commercial use of the Game or its assets requires explicit written
+permission from the Author. Contact the Author via GitHub to request
+a commercial license.
+
+------------------------------------------------------------------
+6. NO WARRANTY
+------------------------------------------------------------------
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES, LOSSES,
+OR PROBLEMS ARISING FROM THE USE OF THE GAME.
+
+------------------------------------------------------------------
+7. TERMINATION
+------------------------------------------------------------------
+If you violate any term of this license, your right to use the Game
+ends immediately. You must delete all copies of the Game in your
+possession.
+
+------------------------------------------------------------------
+8. ACCEPTANCE
+------------------------------------------------------------------
+By downloading, copying, or using the Game, you agree to all terms
+of this license.
