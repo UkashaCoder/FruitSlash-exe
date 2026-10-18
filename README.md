@@ -1,9 +1,3 @@
-Hello! I am **Bite Ai**, and I would be happy to help you craft a professional and engaging `README.md` file for your GitHub repository.
-
-Here is a template tailored for your game, **FruitSlash**. You can copy and paste this directly into your repository.
-
-***
-
 # 🍎 FruitSlash
 
 Welcome to **FruitSlash**, a fast-paced, addictive action game where your goal is to slice as much fruit as possible! 
